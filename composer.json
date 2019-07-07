@@ -1,0 +1,22 @@
+{
+    "name": "pro100rost/pdo-connect",
+    "description": "You can easy connect to PDO object in this library.",
+    "homepage": "https://github.com/pro100rost/pdo-connect",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rostyslav Sikora",
+            "email": "urostyslawa@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "pro100rost\\pdo\\": ""
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
