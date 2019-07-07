@@ -34,6 +34,6 @@ db_password = 12345678
 db_name = test_db
 ```
 
-###### Test using:
+###### Using:
 
-Create object for class Repository.
+Create object for class QueryCommand and use one of method.
